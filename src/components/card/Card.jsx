@@ -1,8 +1,11 @@
 import {languages} from '../helper/data';
+import './Card.css';
 
 const Card=()=>{
     console.log(languages);
-    return (<h1>Hello Js</h1>)
+    return (<div className='container'>
+
+    </div>)
 }
 
 export default Card;
