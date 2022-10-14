@@ -3,7 +3,7 @@ import './Card.css';
 
 const Card=()=>{
     console.log(languages);
-    return (<div className='container'>
+    return (<div className='card'>
 
     </div>)
 }
